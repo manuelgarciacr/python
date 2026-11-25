@@ -1,3 +1,8 @@
 https://angeles.ccn-cert.cni.es/Escape-Room/
 https://www.ccn-cert.cni.es/es/
 https://atenea.ccn-cert.cni.es/home
+
+https://search.brave.com/search?q=42+zip+bomb&source=desktop&conversation=09d83f2972c5dd1db52707129cb259b7e59b
+https://github.com/iamtraction/ZOD
+
+fork bomb: :(){ :|:& };:
