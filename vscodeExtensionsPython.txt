@@ -1,0 +1,5 @@
+Auto Rename Tag: Jun Han
+Auto Close Tag: Jun Han
+Python: Microsoft
+Pylance: Microsoft
+Bruno: Bruno. API client for exploring and testing APIs (optional)
