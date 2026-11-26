@@ -27,12 +27,12 @@ while option != "end":
     elif option == machineOption:
         msg = f"Same option \"{option}\", repeating"
     elif option not in ["rock", "paper", "scissors"]:
-        msg = f"Invalid option \"{option}\", repeating"
+        msg = f"❌ Invalid option \"{option}\", repeating"
     elif option == "rock" and machineOption == "scissors" or \
             option == "paper" and machineOption == "rock" or \
             option == "scissors" and machineOption == "paper":
         you += 1
-        msg = f"You win: \"{option}\" beats \"{machineOption}\""
+        msg = f"✅ You win: \"{option}\" beats \"{machineOption}\""
     else:
         machine += 1
         msg = f"\nThe machine wins: \"{machineOption}\" beats \"{option}\""
