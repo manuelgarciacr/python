@@ -12,5 +12,18 @@ print(total)
 print(10 / 2)
 print(f"the total is {total + pvp}")
 """
-+, -, *, /, // (int), %
+Precedence:
+1	**
+2	+x, -x, ~x
+3	*, /, //, %, @
+4	+, -
+5	<<, >>
+6	&
+7	^
+8	|
+9	==, !=, <, >, <=, >=, is, in
+10	not
+11	and
+12	or
+13	:= (walrus)
 """
